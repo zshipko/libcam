@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 
-#include "camera.h"
+#include "cam.h"
 
 static inline bool _check(cam *ctx, int res){
     ctx->error = res;

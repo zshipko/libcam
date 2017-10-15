@@ -3,3 +3,6 @@ test
 *.CR2
 *.jpg
 *.JPG
+*.so
+*.tiff
+*.TIFF
